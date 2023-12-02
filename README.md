@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdtldn&show_icons=true&theme=merko)
 <a href="https://github.com/imysh578"><img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact&theme=nord&hide_border=true" /></a> 
+
+![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <!--
 **wkdtldn/wkdtldn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
