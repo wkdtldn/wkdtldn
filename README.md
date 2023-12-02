@@ -1,8 +1,7 @@
-### Hi there 👋
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wkdtldn&theme={theme_name}&exclude={exclude}
-
+![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **wkdtldn/wkdtldn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
