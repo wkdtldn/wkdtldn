@@ -1,5 +1,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there, I'm siwoo;Nice to meet you)](https://git.io/typing-svg)
+
 ![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
