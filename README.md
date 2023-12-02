@@ -10,7 +10,7 @@
 <a href="https://github.com/imysh578"><img style="height:204px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact&theme=nord&hide_border=true" /></a> 
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkdtldn&theme=react-dark&bg_color=20232a&hide_border=true&line=9CCC65&color=918FE0" width=70%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkdtldn&theme=react-dark&bg_color=20232a&hide_border=true&line=CCFF90&color=918FE0" width=70%/>
 </a>
 
 
