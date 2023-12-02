@@ -14,7 +14,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wkdtldn&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdtldn&show_icons=true&theme=merko)
 <a href="https://github.com/imysh578"><img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact&theme=nord&hide_border=true" /></a> 
 <!--
 **wkdtldn/wkdtldn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
