@@ -2,12 +2,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=35&pause=3000&color=F7E0A5&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there%2C+I'm+siwoo;Nice+to+meet+you)](https://git.io/typing-svg)
-![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/wkdtldn/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 <!--
 **wkdtldn/wkdtldn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
