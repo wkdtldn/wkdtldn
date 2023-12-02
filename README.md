@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={wkdtldn}&theme={theme_name}&exclude={exclude}
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={wkdtldn}&theme={theme_name}&exclude={exclude}
+
 
 <!--
 **wkdtldn/wkdtldn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
