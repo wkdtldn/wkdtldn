@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact)](https://github.com/delay-100/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
 
 http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wkdtldn&theme={theme_name}&exclude={exclude}
 
