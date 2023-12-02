@@ -7,7 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=wkdtldn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=020715&icon_color=81C784&text_color=558B2F&title_color=C3F527&count_private=true" width=48% />
 </a>
-<a href="https://github.com/imysh578"><img style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/imysh578"><img style="height:168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact&theme=nord&hide_border=true" /></a> 
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wkdtldn&theme=react-dark&bg_color=20232a&hide_border=true&line=E6EE9C&color=A5D657" width=85%/>
