@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=wkdtldn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=8277717&icon_color=81C784&text_color=558B2F&title_color=C3F527&count_private=true" width=48% />
+  <img src="https://github-readme-stats.vercel.app/api?username=wkdtldn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=827717&icon_color=81C784&text_color=558B2F&title_color=C3F527&count_private=true" width=48% />
 </a>
 <a href="https://github.com/devpla/github-stats">
  <img src="https://raw.githubusercontent.com/wkdtldn/github-stats/output/generated/languages.svg" width=51% />
